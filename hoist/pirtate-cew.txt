@@ -1,0 +1,6 @@
+Dashboard: Display all pirates
+Users can create new pirates
+Users can remove pirates
+Validations
+All fields are required
+Display back end errors
